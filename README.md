@@ -1,6 +1,6 @@
 # Industry Practicum 2020
 
-How does a CPG firm with a massive online presence optimize its productstrategy and channelize its marketing efforts when the biggest ecommerce platform Amazon shares only aggregated metrics instead of granular measures?
+How does a CPG firm with a massive online presence optimize its product strategy and channelize its marketing efforts when the biggest ecommerce platform Amazon shares only aggregated metrics instead of granular measures?
 
 This is what our team solved for a New York based Fortune200 CPG firm, and designed an enhanced decision support system using machinelearning techniques, as a part of Industry Practicum Project, in around 3 months.
 
