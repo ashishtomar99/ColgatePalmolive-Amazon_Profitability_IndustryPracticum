@@ -6,9 +6,9 @@ This is what our team solved for a New York based Fortune200 CPG firm, and desig
 
 The following were the highlights/crux of the entire project:
 
-•	Developed profitability prediction model at SKU-level granularity; designed real-time Tableau based decision support system for 425 ASINs
-•	Performed K-means clustering for SKU segmentation; improved sales forecasting accuracy by 30% using ARIMA, LSTM to project $8 million savings in annual budget
-•	Performed Trade Promotion Optimization (TPO) by forming new promotional groupings of low-profit SKUs to boost their sales through bundling technique
+- Developed profitability prediction model at SKU-level granularity; designed real-time Tableau based decision support system for 425 ASINs
+- Performed K-means clustering for SKU segmentation; improved sales forecasting accuracy by 30% using ARIMA, LSTM to project $8 million savings in annual budget
+- Performed Trade Promotion Optimization (TPO) by forming new promotional groupings of low-profit SKUs to boost their sales through bundling technique
 
   
 ## INFORMS Business Analytics Conference 2020, Denver
