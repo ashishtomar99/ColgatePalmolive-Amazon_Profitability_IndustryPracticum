@@ -16,9 +16,9 @@ The following were the highlights/crux of the entire project:
 We were also selected and invited to present our industry poster at this prestigious conference. 
 
 
-![INFORMS Poster](https://github.com/ashishtomar99/industryPracticum-fortune200-CPG-amazonProfitability/blob/master/Industry%20Poster.jpg)
+![INFORMS Poster](https://github.com/ashishtomar99/Fortune200CPGfirm-Amazon_Profitability_IndustryPracticum/blob/master/Industry%20Poster.jpg)
 
-![Presentation](https://github.com/ashishtomar99/industryPracticum-fortune200-CPG-amazonProfitability/blob/master/Poster%20Presentation%20at%20Expo.jpg)
+![Presentation](https://github.com/ashishtomar99/Fortune200CPGfirm-Amazon_Profitability_IndustryPracticum/blob/master/Poster%20Presentation%20at%20Expo.jpg)
 
 
 ### Note:
