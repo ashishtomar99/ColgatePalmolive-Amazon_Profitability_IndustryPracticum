@@ -1,4 +1,4 @@
-# Industry Practicum 2020
+# ColgatePalmolive-Amazon
 
 How does a CPG firm with a massive online presence optimize its product strategy and channelize its marketing efforts when the biggest ecommerce platform Amazon shares only aggregated metrics instead of granular measures?
 
