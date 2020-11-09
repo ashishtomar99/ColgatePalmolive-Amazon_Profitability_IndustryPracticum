@@ -22,4 +22,4 @@ Selected and invited to present the industry poster at this prestigious conferen
 
 
 ### Note:
-All necessary data has been hidden/anonymized as per NDA requirements.
+All confidential data has been hidden/anonymized as per NDA requirements.
