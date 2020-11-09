@@ -2,7 +2,7 @@
 
 How does a CPG firm with a massive online presence optimize its product strategy and channelize its marketing efforts when the biggest ecommerce platform Amazon shares only aggregated metrics instead of granular measures?
 
-This is what our team solved for a New York based Fortune200 CPG firm, and designed an enhanced decision support system using machine learning techniques, as a part of Industry Practicum Project, in around 3 months.
+This is what I solved for Colgate-Palmolive, and designed an enhanced decision support system using machine learning techniques, as a part of Industry Practicum Project.
 
 The following were the highlights/crux of the entire project:
 
@@ -13,7 +13,7 @@ The following were the highlights/crux of the entire project:
   
 ## INFORMS Business Analytics Conference 2020, Denver
 
-We were also selected and invited to present our industry poster at this prestigious conference. 
+Selected and invited to present the industry poster at this prestigious conference. 
 
 
 ![INFORMS Poster](https://github.com/ashishtomar99/Fortune200CPGfirm-Amazon_Profitability_IndustryPracticum/blob/master/Industry%20Poster.jpg)
@@ -22,4 +22,4 @@ We were also selected and invited to present our industry poster at this prestig
 
 
 ### Note:
-All necessary data has been hidden/anonymized as per NDA requirements of our industry partner.
+All necessary data has been hidden/anonymized as per NDA requirements.
